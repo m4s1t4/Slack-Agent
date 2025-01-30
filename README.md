@@ -2,8 +2,6 @@
 
 An intelligent Slack chatbot with local AI capabilities using Ollama. Integrates Trello/GitHub, RAG, and custom tools.
 
-![Architecture Diagram](https://via.placeholder.com/800x400.png?text=Architecture+Diagram)
-
 ## ✨ Main Features
 - **Local AI** with Ollama (llama3.2 model)
 - **Trello** Integration (board management)
