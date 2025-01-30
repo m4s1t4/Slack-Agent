@@ -1,4 +1,4 @@
-# Slack AI Chatbot 🤖
+# Slack Agent🤖
 
 An intelligent Slack chatbot with local AI capabilities using Ollama. Integrates Trello/GitHub, RAG, and custom tools.
 
