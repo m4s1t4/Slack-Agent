@@ -38,6 +38,8 @@ export BOARD_ID="your-board-id"
 export GITHUB_TOKEN="ghp-your-token"
 
 # Start Ollama server (in separate terminal)
+ollama pull llama3.2
+ollama pull nomic-embed-text
 ollama serve
 
 # Run application
